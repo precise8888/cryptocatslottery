@@ -1,0 +1,11 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Cryptocats Lottery",
+            "external_url": "http://cryptocats.pet/",
+            "image": "http://cryptocats.pet/images/nft/test/lottery1.png",
+            "name": "Lottery1"
+        }
+    ]
+}
